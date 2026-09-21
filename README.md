@@ -2,7 +2,7 @@
 
 ## 📌 About the Project
 
-**GameHub** is a Java-based gaming application that brings **9 different games together in one platform**.
+**GameHub** is a Java-based gaming application that brings **10 different games together in one platform**.
 
 Instead of running separate applications for each game, users can access and play multiple games from a single hub. The project is designed to demonstrate Java programming concepts such as **Object-Oriented Programming, GUI development, event handling, game logic, and user interaction**.
 
@@ -23,17 +23,18 @@ Instead of running separate applications for each game, users can access and pla
 
 ## 🕹️ Games Included
 
-GameHub contains the following **9 games**:
+GameHub contains the following **10 games**:
 
-1. 🎮 Game 1
-2. 🎮 Game 2
-3. 🎮 Game 3
-4. 🎮 Game 4
-5. 🎮 Game 5
-6. 🎮 Game 6
-7. 🎮 Game 7
-8. 🎮 Game 8
-9. 🎮 Game 9
+1. 🎮 Game 1 Number Guessing 
+2. 🎮 Game 2 Flying Bird 
+3. 🎮 Game 3 Tic-Tak-Toe
+4. 🎮 Game 4 Ping Pong
+5. 🎮 Game 5 Snake
+6. 🎮 Game 6 Brick Breaker
+7. 🎮 Game 7 MineSweeper
+8. 🎮 Game 8 Space Quize
+9. 🎮 Game 9 Memory Match
+10. 🎮 Game 9 Reaction Test
 
 > Replace the above names with the actual names of the games included in your project.
 
@@ -67,6 +68,7 @@ GameHub/
 │   ├── Game7.java
 │   ├── Game8.java
 │   └── Game9.java
+│   └── Game10.java
 │
 ├── assets/
 │   ├── images/
@@ -148,4 +150,4 @@ If you like this project, consider giving the repository a **⭐ star**!
 
 ---
 
-### 🎮 *One Hub. Nine Games. Endless Fun!*
+### 🎮 *One Hub. Ten Games. Endless Fun!*
