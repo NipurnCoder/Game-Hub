@@ -10,7 +10,7 @@ Instead of running separate applications for each game, users can access and pla
 
 ## 🎯 Features
 
-* 🎮 **9 Different Games in One Application**
+* 🎮 **10 Different Games in One Application**
 * 🖥️ Interactive and user-friendly interface
 * 🔄 Easy navigation between games
 * 🏠 Centralized GameHub menu
@@ -34,16 +34,14 @@ GameHub contains the following **10 games**:
 7. 🎮 Game 7 MineSweeper
 8. 🎮 Game 8 Space Quize
 9. 🎮 Game 9 Memory Match
-10. 🎮 Game 9 Reaction Test
-
-> Replace the above names with the actual names of the games included in your project.
+10. 🎮 Game 10 Reaction Test
 
 ---
 
 ## 🛠️ Technologies Used
 
 * **Java**
-* **Java Swing / AWT** *(if used for GUI)*
+* **Java Swing / AWT** 
 * **Object-Oriented Programming (OOP)**
 * **Event Handling**
 * **Data Structures and Algorithms**
